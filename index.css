@@ -1,0 +1,20 @@
+body {
+    background-image: url(img/potocon.jpg);
+    background-position: center;
+    background-repeat: repeat;
+}.card-btn {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card-btn:hover{
+    background-color: brown;
+    color: black;
+}
+
+.btn-link {
+    color: black;
+}
